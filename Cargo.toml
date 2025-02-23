@@ -1,0 +1,10 @@
+[package]
+name = "datalevel"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+crossterm = "0.28.1"
+diesel = "2.2.7"
+mongodb = "3.2.1"
+ratatui = "0.29.0"
